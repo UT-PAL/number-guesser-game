@@ -23,7 +23,7 @@ for(x=0;x<3;x++){
         alert(" Correct answer is smaller !");
     }
     else if(cmd==a){
-        alert("You win");
+        alert("You win"); break;
     }
     else if(cmd>10){
         alert("please enter a number between 1 to 10");
